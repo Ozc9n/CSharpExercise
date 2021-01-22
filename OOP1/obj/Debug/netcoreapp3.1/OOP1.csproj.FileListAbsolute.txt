@@ -1,0 +1,13 @@
+C:\Users\OZCAN\source\repos\OOP1\OOP1\bin\Debug\netcoreapp3.1\OOP1.exe
+C:\Users\OZCAN\source\repos\OOP1\OOP1\bin\Debug\netcoreapp3.1\OOP1.deps.json
+C:\Users\OZCAN\source\repos\OOP1\OOP1\bin\Debug\netcoreapp3.1\OOP1.runtimeconfig.json
+C:\Users\OZCAN\source\repos\OOP1\OOP1\bin\Debug\netcoreapp3.1\OOP1.runtimeconfig.dev.json
+C:\Users\OZCAN\source\repos\OOP1\OOP1\bin\Debug\netcoreapp3.1\OOP1.dll
+C:\Users\OZCAN\source\repos\OOP1\OOP1\bin\Debug\netcoreapp3.1\OOP1.pdb
+C:\Users\OZCAN\source\repos\OOP1\OOP1\obj\Debug\netcoreapp3.1\OOP1.csprojAssemblyReference.cache
+C:\Users\OZCAN\source\repos\OOP1\OOP1\obj\Debug\netcoreapp3.1\OOP1.AssemblyInfoInputs.cache
+C:\Users\OZCAN\source\repos\OOP1\OOP1\obj\Debug\netcoreapp3.1\OOP1.AssemblyInfo.cs
+C:\Users\OZCAN\source\repos\OOP1\OOP1\obj\Debug\netcoreapp3.1\OOP1.csproj.CoreCompileInputs.cache
+C:\Users\OZCAN\source\repos\OOP1\OOP1\obj\Debug\netcoreapp3.1\OOP1.dll
+C:\Users\OZCAN\source\repos\OOP1\OOP1\obj\Debug\netcoreapp3.1\OOP1.pdb
+C:\Users\OZCAN\source\repos\OOP1\OOP1\obj\Debug\netcoreapp3.1\OOP1.genruntimeconfig.cache
