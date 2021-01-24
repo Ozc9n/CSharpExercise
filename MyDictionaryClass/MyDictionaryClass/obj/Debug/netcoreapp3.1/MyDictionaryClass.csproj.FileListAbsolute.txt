@@ -1,0 +1,13 @@
+C:\Users\OZCAN\source\repos\MyDictionaryClass\MyDictionaryClass\bin\Debug\netcoreapp3.1\MyDictionaryClass.exe
+C:\Users\OZCAN\source\repos\MyDictionaryClass\MyDictionaryClass\bin\Debug\netcoreapp3.1\MyDictionaryClass.deps.json
+C:\Users\OZCAN\source\repos\MyDictionaryClass\MyDictionaryClass\bin\Debug\netcoreapp3.1\MyDictionaryClass.runtimeconfig.json
+C:\Users\OZCAN\source\repos\MyDictionaryClass\MyDictionaryClass\bin\Debug\netcoreapp3.1\MyDictionaryClass.runtimeconfig.dev.json
+C:\Users\OZCAN\source\repos\MyDictionaryClass\MyDictionaryClass\bin\Debug\netcoreapp3.1\MyDictionaryClass.dll
+C:\Users\OZCAN\source\repos\MyDictionaryClass\MyDictionaryClass\bin\Debug\netcoreapp3.1\MyDictionaryClass.pdb
+C:\Users\OZCAN\source\repos\MyDictionaryClass\MyDictionaryClass\obj\Debug\netcoreapp3.1\MyDictionaryClass.csprojAssemblyReference.cache
+C:\Users\OZCAN\source\repos\MyDictionaryClass\MyDictionaryClass\obj\Debug\netcoreapp3.1\MyDictionaryClass.AssemblyInfoInputs.cache
+C:\Users\OZCAN\source\repos\MyDictionaryClass\MyDictionaryClass\obj\Debug\netcoreapp3.1\MyDictionaryClass.AssemblyInfo.cs
+C:\Users\OZCAN\source\repos\MyDictionaryClass\MyDictionaryClass\obj\Debug\netcoreapp3.1\MyDictionaryClass.csproj.CoreCompileInputs.cache
+C:\Users\OZCAN\source\repos\MyDictionaryClass\MyDictionaryClass\obj\Debug\netcoreapp3.1\MyDictionaryClass.dll
+C:\Users\OZCAN\source\repos\MyDictionaryClass\MyDictionaryClass\obj\Debug\netcoreapp3.1\MyDictionaryClass.pdb
+C:\Users\OZCAN\source\repos\MyDictionaryClass\MyDictionaryClass\obj\Debug\netcoreapp3.1\MyDictionaryClass.genruntimeconfig.cache
